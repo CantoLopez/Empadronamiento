@@ -1,0 +1,16 @@
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\bin\Debug\Empadronamiento.exe.config
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\bin\Debug\Empadronamiento.exe
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\bin\Debug\Empadronamiento.pdb
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.csproj.AssemblyReference.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.frmPrincipal.resources
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.Properties.Resources.resources
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.csproj.GenerateResource.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.csproj.CoreCompileInputs.cache
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.csproj.CopyComplete
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.exe
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.pdb
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.FrmRegistro.resources
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\obj\Debug\Empadronamiento.Consulta.FrmConsulta.resources
+C:\Users\adolf\OneDrive\Escritorio\Progra 2023\Empadronamiento\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
